@@ -2,11 +2,11 @@ DEST_SPEC = {}
 DEST_SPEC[None]   = "000"
 DEST_SPEC["M"]    = "001"
 DEST_SPEC["D"]    = "010"
-DEST_SPEC["DM"]   = "011"
+DEST_SPEC["MD"]   = "011"
 DEST_SPEC["A"]    = "100"
 DEST_SPEC["AM"]   = "101"
 DEST_SPEC["AD"]   = "110"
-DEST_SPEC["ADM"]  = "111"
+DEST_SPEC["AMD"]  = "111"
 
 
 JUMP_SPEC = {}
